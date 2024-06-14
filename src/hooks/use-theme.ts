@@ -19,7 +19,7 @@ const themeAtom = atom<Theme>({
 const useTheme = (): readonly [Theme, () => void] => {
   const [theme, set] = useCoilPersistedState(themeAtom);
 
-  const toggle = () => set({ mode: theme.mode === "dark" ? "light" : "dark" });
+  const toggle = () => set({ mode: "light"});
 
   return [theme, toggle];
 };
