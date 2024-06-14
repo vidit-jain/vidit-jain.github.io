@@ -4,7 +4,7 @@ import { useCoilPersistedState } from "@alxshelepenok/diesel-extensions";
 import { getDefaultColorMode } from "@/utils";
 
 interface Theme {
-  mode: "dark" | "light";
+  mode: "light";
 }
 
 export const themeAtomKey = "diesel:theme-atom";
