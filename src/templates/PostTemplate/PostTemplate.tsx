@@ -7,6 +7,7 @@ import { Meta } from "@/components/Meta";
 import { Post } from "@/components/Post";
 import { useSiteMetadata } from "@/hooks";
 import { Node } from "@/types";
+require(`katex/dist/katex.min.css`);
 
 interface Props {
   data: {
