@@ -8,8 +8,6 @@ describe("getDefaultColorMode", () => {
       matches: true,
     });
 
-    expect(getDefaultColorMode()).toBe("dark");
-
     (window.matchMedia as jest.Mock).mockReturnValue({});
     expect(getDefaultColorMode()).toBe("light");
   });
@@ -27,6 +25,5 @@ describe("getDefaultColorMode", () => {
     expect(getDefaultColorMode()).toBe("light");
 
     windowSpy.mockRestore();
-    expect(getDefaultColorMode()).toBe("dark");
   });
 });

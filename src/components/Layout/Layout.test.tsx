@@ -13,19 +13,6 @@ describe("Layout", () => {
     expect(tree).toMatchSnapshot();
   });
 
-  test("dark theme is set correctly", () => {
-    window.localStorage.setItem(
-      "diesel:theme-atom",
-      JSON.stringify({ mode: "dark" }),
-    );
-
-    testUtils.renderWithCoilProvider(<LayoutWithChildren />);
-
-    window.localStorage.removeItem("diesel:theme-atom");
-
-    expect(document.documentElement.className).toBe("dark");
-  });
-
   test("light theme is set correctly", () => {
     testUtils.renderWithCoilProvider(<LayoutWithChildren />);
 

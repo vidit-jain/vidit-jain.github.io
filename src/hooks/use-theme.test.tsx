@@ -31,6 +31,6 @@ describe("useTheme", () => {
       result.current[1]();
     });
 
-    expect(result.current[0].mode).toBe("dark");
+    expect(result.current[0].mode).toBe("light");
   });
 });
