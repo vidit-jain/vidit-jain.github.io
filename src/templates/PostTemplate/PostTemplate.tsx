@@ -7,6 +7,7 @@ import { Meta } from "@/components/Meta";
 import { Post } from "@/components/Post";
 import { useSiteMetadata } from "@/hooks";
 import { Node } from "@/types";
+import { Sidebar } from "@/components/Sidebar";
 require(`katex/dist/katex.min.css`);
 
 interface Props {
@@ -17,6 +18,7 @@ interface Props {
 
 const PostTemplate: React.FC<Props> = ({ data: { markdownRemark } }: Props) => (
   <Layout>
+    <Sidebar />
     <Post post={markdownRemark} />
   </Layout>
 );

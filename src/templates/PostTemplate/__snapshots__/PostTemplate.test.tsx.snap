@@ -4,13 +4,54 @@ exports[`PostTemplate renders correctly 1`] = `
 <div>
   <div>
     <div>
-      <a
-        className=""
-        href="/"
-      >
-        All Articles
-      </a>
+      <div>
+        <a
+          href="/"
+        />
+        <div>
+          <h2>
+            <a
+              href="/"
+            >
+              John Doe
+            </a>
+          </h2>
+        </div>
+        <p>
+          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+        </p>
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a
+              href="/"
+            >
+              Articles
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/about"
+            >
+              About Me
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/contacts"
+            >
+              Contact Me
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div>
+        All rights reserved.
+      </div>
     </div>
+  </div>
+  <div>
     <div>
       <div>
         <h1>
@@ -31,21 +72,6 @@ exports[`PostTemplate renders correctly 1`] = `
           Published
            
           Sep 1, 2016
-        </p>
-      </div>
-      <div>
-        <p>
-          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-          <a
-            href="https://www.twitter.com/#"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <strong>
-              John Doe
-            </strong>
-             on Twitter
-          </a>
         </p>
       </div>
     </div>
