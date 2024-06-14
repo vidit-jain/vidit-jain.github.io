@@ -32,7 +32,7 @@ jobs:
 
       - name: Install modules
         if: steps.npm-modules-cache.outputs.cache-hit != 'true'
-        run: npm ci
+        run: npm ci --legacy-peer-deps
 
       - name: Cache modules
         id: npm-modules-cache
