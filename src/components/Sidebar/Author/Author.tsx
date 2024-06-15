@@ -17,9 +17,11 @@ type Props = {
 
 const Author = ({ author, isIndex }: Props) => (
   <div className={styles.author}>
+  {/*
     <Link to="/">
       <Image alt={author.name} path={author.photo} className={styles.photo} />
     </Link>
+  */}
 
     <div className={styles.titleContainer}>
       {isIndex ? (

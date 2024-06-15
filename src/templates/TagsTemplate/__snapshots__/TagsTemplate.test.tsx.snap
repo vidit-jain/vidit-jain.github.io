@@ -5,9 +5,6 @@ exports[`TagsTemplate renders correctly 1`] = `
   <div>
     <div>
       <div>
-        <a
-          href="/"
-        />
         <div>
           <h2>
             <a
