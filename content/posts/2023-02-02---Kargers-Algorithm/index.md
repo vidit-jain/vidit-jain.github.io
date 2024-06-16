@@ -12,7 +12,6 @@ tags:
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
 socialImage: "./media/KargerWorking.png"
 ---
-## Karger's Algorithm
 Karger's algorithm is a randomized algorithm that solves the Global minimum cut problem.
 ### Terminology
 We have 2 new terms, *supernodes* and *superedges*\
