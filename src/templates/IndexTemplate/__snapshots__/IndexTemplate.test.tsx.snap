@@ -75,9 +75,6 @@ exports[`IndexTemplate renders correctly 1`] = `
                 Perfecting the Art of Perfection
               </a>
             </h2>
-            <p>
-              An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
-            </p>
           </div>
           <div>
             <div>
@@ -102,9 +99,6 @@ exports[`IndexTemplate renders correctly 1`] = `
                 Johannes Gutenberg: The Birth of Movable Type
               </a>
             </h2>
-            <p>
-              German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.
-            </p>
           </div>
           <div>
             <div>
@@ -129,7 +123,6 @@ exports[`IndexTemplate renders correctly 1`] = `
                 Humane Typography in the Digital Age
               </a>
             </h2>
-            <p />
           </div>
         </div>
         <div>
