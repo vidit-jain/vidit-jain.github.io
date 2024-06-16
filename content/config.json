@@ -19,6 +19,10 @@
     {
       "label": "Contact",
       "path": "/pages/contacts"
+    },
+    {
+      "label": "CV",
+      "path": "/pages/cv"
     }
   ],
   "author": {
