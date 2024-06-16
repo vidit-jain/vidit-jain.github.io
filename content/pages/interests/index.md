@@ -18,7 +18,7 @@ I've always been more of a generalist in competitive programming, solving comple
 I love to teach! In college, I've been a Teaching Assistant for Discrete Math, Design & Analysis of Algorithms, and Advanced Algorithms.\
 I've also taken a couple of meets on competitive programming too. I've taken meets on Number Theory, XOR basis, Suffix Arrays, and Persistent Data Structures when I was in college.
 ### Systems
-I was a part of the Computer Systems Group at IIIT-H as an undergraduate researcher, where I worked on optimizing the STAR DNA Sequence Aligner in collaboration Intel Labs.\
+I was a part of the Computer Systems Group at IIIT-H as an undergraduate researcher, where I worked on optimizing the STAR DNA Sequence Aligner in collaboration Intel Labs.
 
 I have a few systems-related projects that I've worked on.
 - Optimized Needleman-Wunsch to achieve a 33x performance increase using SIMD & parallelization with Kishore Kumar. [Link](https://github.com/akcube/Sewing-machine)
