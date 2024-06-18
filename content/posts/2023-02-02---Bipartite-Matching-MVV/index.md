@@ -10,7 +10,6 @@ tags:
   - "Bipartite Matching"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 
 There are already many polynomial sequential algorithms that can be used for matching, but we can make use of Polynomial Identity Testing to come up with a randomized, parallelizable algorithm (Mulmuley, Vazirani and Vazirani algorithm)

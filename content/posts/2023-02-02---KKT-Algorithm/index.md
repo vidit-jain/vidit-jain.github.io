@@ -10,7 +10,6 @@ tags:
   - "Randomization"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 A randomized algorithm for finding the Minimum Spanning Tree in $O(m + n)$ expected time. Created by *Karger, Klein, Tarjan*.
 

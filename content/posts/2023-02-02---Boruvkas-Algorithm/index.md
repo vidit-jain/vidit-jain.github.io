@@ -10,7 +10,6 @@ tags:
   - "Parallelization"
   - "Graphs"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 Boruvka's algorithm is used to find the minimum spanning tree of a graph.\
 *(We assume that the edge weights are distinct)*\

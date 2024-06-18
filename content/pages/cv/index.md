@@ -1,7 +1,6 @@
 ---
 title: "CV"
 template: "page"
-socialImage: ""
 ---
 
 <div class="flex-container">

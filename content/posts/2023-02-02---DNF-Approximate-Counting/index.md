@@ -9,7 +9,6 @@ tags:
   - "Randomization"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 **Decision Problem in NP -**  $\pi$ is in NP if for any YES instance $I$, $\exists$ a proof that $I$ is a YES instance that can be verified in polytime.\
 **Counting Problem -**  We define a counting problem for a decision problem $\pi$ in NP, where given an instance $I$ of $\pi$, we have to produce an output the number of solutions for the instance.

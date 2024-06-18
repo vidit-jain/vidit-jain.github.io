@@ -9,7 +9,6 @@ tags:
   - "Expected Value"
   - "Probability"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 There are many cereal boxes, and in each cereal box with equal probability there is one of the $n$ coupons $C_{1}, C_{2}, C_{3}, \dots C_{n}$.
 

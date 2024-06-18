@@ -10,7 +10,6 @@ tags:
   - "Advanced Algorithms"
   - "Graphs"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: "./media/KargerWorking.png"
 ---
 Karger's algorithm is a randomized algorithm that solves the Global minimum cut problem.
 ### Terminology

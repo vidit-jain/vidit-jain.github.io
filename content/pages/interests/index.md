@@ -1,7 +1,6 @@
 ---
 title: "Interests"
 template: "page"
-socialImage: ""
 ---
 Hi! I'm a recent CS grad from [International Institute of Information Technology - Hyderabad](https://iiit.ac.in/), and I'll soon start working at Capital One as a software engineer. These are some of the interests I've formed over the years, and I hope I'll add a few more soon :).
 

@@ -1,7 +1,6 @@
 ---
 title: "Contact me"
 template: "page"
-socialImage: "./book.jpg"
 ---
 
 **Locations you may find me:** Washington DC | Mumbai

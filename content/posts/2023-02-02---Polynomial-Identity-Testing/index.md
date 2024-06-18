@@ -9,7 +9,6 @@ tags:
   - "Randomization"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 ## DeMillo-Lipton-Schwartz–Zippel Lemma
 Let $P$ be a non-zero polynomial on $n$ variables of degree $d$.\

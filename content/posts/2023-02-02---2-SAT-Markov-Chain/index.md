@@ -10,7 +10,6 @@ tags:
   - "SAT"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 2-SAT is a CNF over $n$ variables
 

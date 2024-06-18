@@ -10,7 +10,6 @@ tags:
   - "SAT"
   - "Advanced Algorithms"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: ""
 ---
 **Cut -** A partition of vertices into $2$ disjoint sets and value of the cut is the weight of all edges crossing the cut.
 
