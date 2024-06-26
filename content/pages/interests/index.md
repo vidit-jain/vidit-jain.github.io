@@ -20,7 +20,7 @@ I've also taken a couple of meets on competitive programming too. I've taken mee
 I was a part of the Computer Systems Group at IIIT-H as an undergraduate researcher, where I worked on optimizing the STAR DNA Sequence Aligner in collaboration Intel Labs.
 
 I have a few systems-related projects that I've worked on.
-- Optimized Needleman-Wunsch to achieve a 33x performance increase using SIMD & parallelization with Kishore Kumar. [Link](https://github.com/akcube/Sewing-machine)
+- Optimized Needleman-Wunsch to achieve a 33x performance increase using SIMD & parallelization with [Kishore Kumar](https://akcube.github.io/). [Link](https://github.com/akcube/Sewing-machine)
 - Built a Distributed File System with semantics similar to Google File System and Hadoop File System with Dheeraja Rajreddygari, Kushagra Kharbanda, Pramod Rao. [Link](https://github.com/PramodRaoB/hybrid-distributed-file-system)
 - Designed a compiler for Racket to x86asm compilation, including support for functions, conditional branching and loops with Shavak Kansal. [Link](https://github.com/Vidit-Jain/racket-compiler)
 - Extended a realational database design with specialized page design for matrices to improve efficiency, and optimizing joins & group by queries using indexing with the help of B+ Trees with Dheeraja Rajreddygari, Pramod Rao. [Link](https://github.com/Vidit-Jain/relational-db)
