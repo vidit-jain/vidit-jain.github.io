@@ -10,13 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alxshelepenok/gatsby-starter-lumen.git"
+    "url": "https://github.com/vidit-jain/vidit-jain.github.io.git"
   },
   "license": "MIT",
   "author": "Vidit Jain <viditjain@live.com>",
-  "release": {
-    "branches": ["master"]
-  },
   "scripts": {
     "build": "npm run clean && gatsby build",
     "clean": "rimraf .cache public",
