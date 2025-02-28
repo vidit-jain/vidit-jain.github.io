@@ -2,7 +2,7 @@
 title: "Interests"
 template: "page"
 ---
-Hi! I'm a recent CS grad from [International Institute of Information Technology - Hyderabad](https://iiit.ac.in/), and I'll soon start working at Capital One as a software engineer. These are some of the interests I've formed over the years, and I hope I'll add a few more soon :).
+Hi! I'm a recent CS grad from [International Institute of Information Technology - Hyderabad](https://iiit.ac.in/), and working at Databricks. These are some of the interests I've formed over the years, and I hope I'll add a few more soon :).
 
 ### Competitive Programming
 I started competitive programming in 2018, but only started taking it seriously in 2020, after joining college.
